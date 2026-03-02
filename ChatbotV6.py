@@ -19,4 +19,4 @@ if 'Desculpe, não entendi' in resposta:
   mensagem_usuario = 'Você pode fornecer mais detalhes?'
   resposta = enviar_mensagem(mensagem_usuario)
 
-print(f'Respoata do ChatGPT: {resposta}')
+print(f'Resposta do ChatGPT: {resposta}')
